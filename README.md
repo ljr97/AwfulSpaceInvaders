@@ -1,3 +1,3 @@
-# AwfulSpaceInvaders
+# Space Invaders
 
-Poorly coded game from 1st year of University.
+Coursework from 1st year of university.
